@@ -1,8 +1,6 @@
 # Hey, I'm ooumayma 🖤
 
 - Data Science & Cloud Computing Engineering Graduate
-- Passionate about Statistics and Linear Algebra
-- Full-stack developer clearly
 - Backend & database design is where I shine most // clean and normalized
 - I use Linux 
 
@@ -19,7 +17,4 @@
 - I hate QWERTY ⌨️
 - I hate Windows 🪟
 
----
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=uma-oo&theme=light)](https://git.io/streak-stats)
